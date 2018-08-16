@@ -5,7 +5,7 @@
  *
  * This file is used to markup the public-facing aspects of the plugin.
  *
- * @link       http://
+ * @link       none
  * @since      1.0.0
  *
  * @package    Living

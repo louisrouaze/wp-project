@@ -6,7 +6,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the admin area.
  *
- * @link       http://
+ * @link       none
  * @since      1.0.0
  *
  * @package    Living
@@ -25,7 +25,7 @@
  * @since      1.0.0
  * @package    Living
  * @subpackage Living/includes
- * @author     LouisR <louisrouaze@gmail.com>
+ * @author     Louis Rouaze <none>
  */
 class Living {
 

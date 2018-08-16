@@ -3,7 +3,7 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       http://
+ * @link       none
  * @since      1.0.0
  *
  * @package    Living
@@ -18,7 +18,7 @@
  *
  * @package    Living
  * @subpackage Living/admin
- * @author     LouisR <louisrouaze@gmail.com>
+ * @author     Louis Rouaze <none>
  */
 class Living_Admin {
 

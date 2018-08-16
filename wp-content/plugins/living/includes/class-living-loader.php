@@ -3,7 +3,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       http://
+ * @link       none
  * @since      1.0.0
  *
  * @package    Living
@@ -19,7 +19,7 @@
  *
  * @package    Living
  * @subpackage Living/includes
- * @author     LouisR <louisrouaze@gmail.com>
+ * @author     Louis Rouaze <none>
  */
 class Living_Loader {
 
