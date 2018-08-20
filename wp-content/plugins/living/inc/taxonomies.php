@@ -4,7 +4,7 @@
 	*/
 	add_action( 'init', 'create_taxonomy_living', 0 );
 	
-	//create two taxonomies, genres and writers for the post type "living"
+	//create taxonomies, genres and writers for the post type "living"
 	function create_taxonomy_living() {
 		
 		/**
